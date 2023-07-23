@@ -1,2 +1,7 @@
-# cse-122-Fall-2023
-This is an OOP Lab repository.
+Name : Tusty 
+
+ID: 22235103061
+
+Intake: 51
+
+Section: 02 
